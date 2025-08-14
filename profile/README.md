@@ -1,5 +1,4 @@
-# README
-Detaled information on how this organization its organized 
+# Detaled information on how this organization its organized 
 
 
 Repositories: Wiki – Open this repository and go to the Wiki section to access all project documentation.You can access by clicking on the image below
